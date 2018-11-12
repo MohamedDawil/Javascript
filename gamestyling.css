@@ -1,0 +1,22 @@
+﻿body {
+    background-color: forestgreen;
+    font-family: 'Pacifico', cursive;
+    font-size: x-large;
+
+    
+}
+h1.class1{
+    font-display: swap;
+    font-size: medium;
+    font-synthesis: initial;
+    font-style: italic;
+}
+thead{
+    font-style: italic;
+    font-display: block;
+}
+section.class1{
+    font-size: xx-large;
+    background-color:aquamarine;
+}
+
